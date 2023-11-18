@@ -1,2 +1,2 @@
-# Super projekt abuot Pull Reuests
+# Super project about Pull Reuests
 
